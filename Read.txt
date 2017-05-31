@@ -1,0 +1,1 @@
+Requires mysql-connector-java-5.1.38 in configuration path variables.
